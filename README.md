@@ -16,4 +16,6 @@ wolf moon.
 Shortening this example, not typing what he has to save time.
 
 ## Website Contents
+
+Here are the files in the website.
 1. index.html
